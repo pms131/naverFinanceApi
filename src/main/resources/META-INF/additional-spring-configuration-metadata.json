@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "rapidapi.host",
+    "type": "java.lang.String",
+    "description": "A description for 'rapidapi.host'"
+  },
+  {
+    "name": "rapidapi.url",
+    "type": "java.lang.String",
+    "description": "A description for 'rapidapi.url'"
+  },
+  {
+    "name": "rapidapi.key",
+    "type": "java.lang.String",
+    "description": "A description for 'rapidapi.key'"
+  },
+  {
+    "name": "naver.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'naver.api.url'"
+  }
+]}
